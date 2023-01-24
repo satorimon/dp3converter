@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dp3converter", "dp3converter\dp3converter.csproj", "{C224120A-ACEB-4004-857D-877AA0262EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dp3converterTests", "dp3converterTests\dp3converterTests.csproj", "{3E4E15BC-8101-4827-9649-B4383F7655F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C224120A-ACEB-4004-857D-877AA0262EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C224120A-ACEB-4004-857D-877AA0262EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C224120A-ACEB-4004-857D-877AA0262EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C224120A-ACEB-4004-857D-877AA0262EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4E15BC-8101-4827-9649-B4383F7655F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4E15BC-8101-4827-9649-B4383F7655F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4E15BC-8101-4827-9649-B4383F7655F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4E15BC-8101-4827-9649-B4383F7655F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA5BC81F-7D2A-4104-B7DF-32FA751DB5F2}
+	EndGlobalSection
+EndGlobal
